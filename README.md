@@ -3,3 +3,5 @@
 1. Developer
 2. Artist
 3. Creative
+
+    ![Tux, Linux](/assets/linux.png)
