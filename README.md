@@ -4,4 +4,4 @@
 2. Artist
 3. Creative
 
-    ![Tux, Linux](/assets/image.png)
+    ![Tux, Linux](/assets/linux.png)
